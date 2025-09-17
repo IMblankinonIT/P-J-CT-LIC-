@@ -1,0 +1,11 @@
+to open project alice
+
+1 command line "cd project_alice"
+2 command line "cd Alice"
+3 to run ./alice
+
+to make app run
+g++ alice.cpp -o alice -ljsoncpp -lcurl
+in termonle
+
+id use https://www.alphavantage.co/ fir RSI api key
